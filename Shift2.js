@@ -25,4 +25,4 @@ namaShift2.forEach((nama, index) => {
     console.log(`${index + 1}. ${nama}`);
 });
 
-console.log("========================================");
+console.log("======================================");
